@@ -131,7 +131,7 @@ If you need to remove the plugin:
 
 ## Support
 
-For questions, issues, or feature requests, please contact Hence Creative or refer to the README.md file.
+For questions, issues, or feature requests, please contact bruno.krapljan@rise2.studio or refer to the README.md file.
 
 ## File Structure
 
