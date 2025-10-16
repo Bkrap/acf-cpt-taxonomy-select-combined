@@ -1,0 +1,71 @@
+/**
+ * ACF CPT & Taxonomy Select Combined - Admin Styles
+ */
+
+/* Select field */
+.acf-field .acf-cpt-tax-select {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Checkbox list */
+.acf-checkbox-list {
+    padding: 8px 0;
+}
+
+.acf-checkbox-list label {
+    display: block;
+    margin: 8px 0;
+    padding: 4px 0;
+    cursor: pointer;
+}
+
+.acf-checkbox-list label:hover {
+    background-color: #f5f5f5;
+    padding-left: 4px;
+    margin-left: -4px;
+    border-radius: 3px;
+}
+
+.acf-checkbox-list input[type="checkbox"] {
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+/* Radio list */
+.acf-radio-list {
+    padding: 8px 0;
+}
+
+.acf-radio-list label {
+    display: block;
+    margin: 8px 0;
+    padding: 4px 0;
+    cursor: pointer;
+}
+
+.acf-radio-list label:hover {
+    background-color: #f5f5f5;
+    padding-left: 4px;
+    margin-left: -4px;
+    border-radius: 3px;
+}
+
+.acf-radio-list input[type="radio"] {
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+/* Hierarchy labels */
+.acf-cpt-tax-select option,
+.acf-checkbox-list label,
+.acf-radio-list label {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+/* Multiple select styling */
+select.acf-cpt-tax-select[multiple] {
+    min-height: 200px;
+}
+
